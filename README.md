@@ -1,4 +1,4 @@
-# Wisema_English_Builder_Code
+# Wiseman_English_Builder_Code
  For use in Wiseman English Builder.
  HOW TO USE:
  1: Open the file and copy the content(JavaScript or text file).
